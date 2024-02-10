@@ -34,11 +34,11 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: 'npm'
+          cache: 'npx'
       - name: Install dependencies
-        run: npm install
+        run: npx install
       - name: Build
-        run: npm run build
+        run: npx run build
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
