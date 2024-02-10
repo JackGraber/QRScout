@@ -6,11 +6,11 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        rhr: ['"SF Sports Night"'],
-        'rhr-ns': ['"SF Sports Night NS"'],
+        rhr: ['"Alien-Encounters-Solid-Bold"'],
+        'rhr-ns': ['"Alien-Encounters-Solid-Italic"'],
       },
       colors: {
-        red: { rhr: '#0017fc' },
+        red: { rhr: '#FCCF00' },
       },
     },
   },
