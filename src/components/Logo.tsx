@@ -17,7 +17,7 @@ export function Logo() {
           <g
             id="g1203"
             transform="translate(0.13748675)"
-            style="fill:#ef3340;fill-opacity:1"
+            style="fill:#0017fc;fill-opacity:1"
           >
             <path
               d="m 791.45546,930.01016 -0.99862,5.61727 h -15.60343 l 0.99861,-5.61727 z m -1.27948,7.17757 -0.74897,4.369 h -9.9862 l -0.28086,1.5603 h 9.9862 l -0.99861,5.6173 H 772.5441 l 2.02845,-11.5466 z"
