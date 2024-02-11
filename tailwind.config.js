@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        rhr: ['"Alien-Encounters-Solid-Bold"'],
-        'rhr-ns': ['"ALien-Encounters-Solid-Italic"'],
+        rhr: ['"AlienEncountersBold"'],
+        'rhr-ns': ['"AlienEncountersItalic"'],
       },
       colors: {
         red: { rhr: '#FCCF00' },
