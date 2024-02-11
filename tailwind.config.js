@@ -10,7 +10,7 @@ module.exports = {
         'rhr-ns': ['"AlienEncountersItalic"'],
       },
       colors: {
-        red: { rhr: '#FCCF00' },
+        red: { rhr: '#0D47A1' },
       },
     },
   },
