@@ -9,10 +9,10 @@ body {
 
 @font-face {
   font-family: 'AlienEncountersBold';
-  src: url('/fonts/AlienEncountersBold.ttf');
+  src: url('/public/fonts/AlienEncountersBold.ttf');
 }
 
 @font-face {
   font-family: 'AlienEncountersItalic';
-  src: url('/fonts/AlienEncountersItalic.ttf');
+  src: url('/public/fonts/AlienEncountersItalic.ttf');
 }
