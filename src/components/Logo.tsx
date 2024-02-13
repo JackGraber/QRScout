@@ -36,7 +36,7 @@ export function Logo() {
             >
               <path
                 d="m -1.7933355,2845.9505 -22.6585105,14.9542 h -14.954122 l 2.65851,-14.9542 z m -30.7390265,0 -2.65851,14.9542 h -14.95412 l 2.65851,-14.9542 z m 27.33281,19.1081 -5.400101,30.739 h -14.95412 l 3.406216,-19.108 h -15.784904 l -3.406216,19.108 h -14.95412 l 5.400099,-30.739 z"
-                //changes parts of the H, changed -2.65 to -22.65 and it changed the top right corner of the letter
+                //changes parts of the H
                 id="path6391-4-6-0-1-7-5-7-1-9-8-8-9"
                 style="fill:#0017fc;fill-opacity:1"
               />
