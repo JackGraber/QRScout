@@ -168,7 +168,7 @@ export function App() {
       </main>
       <footer>
         <div className="mt-8 flex h-24 flex-col items-center justify-center gap-4">
-          <logo />  
+          <Logo />
         </div>
       </footer>
     </div>
