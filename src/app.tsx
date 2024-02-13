@@ -1,6 +1,6 @@
 import { useTheme } from 'next-themes';
 import { useMemo, useState } from 'preact/hooks';
-import { Logo } from 'Logo.tsx';
+import { Logo } from './components/Logo';
 import QRModal from './components/QRModal';
 import Section from './components/Section';
 import Button, { Variant } from './components/core/Button';
@@ -168,7 +168,7 @@ export function App() {
       </main>
       <footer>
         <div className="mt-8 flex h-24 flex-col items-center justify-center gap-4">
-        </logo>  
+          <logo />  
         </div>
       </footer>
     </div>
