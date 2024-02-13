@@ -1,6 +1,7 @@
 import { useTheme } from 'next-themes';
 import { useMemo, useState } from 'preact/hooks';
-import { Logo } from './components/Logo';
+//import { Logo } from './components/Logo';
+import { Logo } from './components/Logo2';
 import QRModal from './components/QRModal';
 import Section from './components/Section';
 import Button, { Variant } from './components/core/Button';
