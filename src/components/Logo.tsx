@@ -16,7 +16,7 @@ export function Logo() {
         >
           <g
             id="g1203"
-            transform="translate(0.13748675)"
+            transform="translate(0)"
             style="fill:#0017fc;fill-opacity:1"
           >
             <path
